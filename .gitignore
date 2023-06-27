@@ -1,17 +1,20 @@
+# Secrets
+*api.key
+
 # VS Code configuration
 .vscode
 
 # MacOS
 *.DS_Store
 
-# Javascript dependencies cache
+# NodeJS dependencies cache
 node_modules
 
-# PHP dependencies cache
-vendor
+# Python cache
+*__pycache__
 
 # Miscellaneous
 package-lock.json
 
-# This is for work in progress information, scripts and data
+# This folder holds work in progress information, scripts and data
 wip

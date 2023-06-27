@@ -1,5 +1,5 @@
 {
-    "name": "ytmeta",
+    "name": "yms",
     "version": "1.0.0",
     "description": "A lightweight script to get metadata information from a Youtube video URL or ID, e.g. to include in documentation.",
     "main": "index.js",

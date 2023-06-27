@@ -1,0 +1,206 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "r0HZs8zeWV5UF-gaNhLf3LdRI_g",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 30,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "m2nEuTpmiMAMrFCrR-aT5Ywb0MM",
+            "id": "PL96C35uN7xGLr6zFFMabALFOFy6RnZhir",
+            "snippet": {
+                "publishedAt": "2020-07-31T17:45:30Z",
+                "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+                "title": "📶 Disconnected",
+                "description": "A quiz show where it doesn't matter if you don't know the answers: as long as no-one calls you on being wrong.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zV14G-Sxu7M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zV14G-Sxu7M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zV14G-Sxu7M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zV14G-Sxu7M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zV14G-Sxu7M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tom Scott",
+                "localized": {
+                    "title": "📶 Disconnected",
+                    "description": "A quiz show where it doesn't matter if you don't know the answers: as long as no-one calls you on being wrong."
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "tb4pGYmo4i5lxGezEHSBJeVkSHk",
+            "id": "PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5",
+            "snippet": {
+                "publishedAt": "2019-05-16T12:27:30Z",
+                "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+                "title": "How To Build An App: Everything You Didn't Know You Needed To Know",
+                "description": "Learn the skills you need to build not just an app, but a successful app, from the experts who've been there and done that. This course covers everything you didn't know you needed to know: from how to develop the very first sketches of your idea, to working with coders and developers, to launching on the app stores, finding your users and planning for the long term. We've talked to developers, designers, and yes, a few marketing types too.\n\nIn 2016, a friend and I tried to build an app, and it failed. This is what we should have known.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tO8aJ-TUtJY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tO8aJ-TUtJY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tO8aJ-TUtJY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tO8aJ-TUtJY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tO8aJ-TUtJY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tom Scott",
+                "localized": {
+                    "title": "How To Build An App: Everything You Didn't Know You Needed To Know",
+                    "description": "Learn the skills you need to build not just an app, but a successful app, from the experts who've been there and done that. This course covers everything you didn't know you needed to know: from how to develop the very first sketches of your idea, to working with coders and developers, to launching on the app stores, finding your users and planning for the long term. We've talked to developers, designers, and yes, a few marketing types too.\n\nIn 2016, a friend and I tried to build an app, and it failed. This is what we should have known."
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dHHy21gXbktEK0FifVhi_3n9N7Q",
+            "id": "PL96C35uN7xGLafls3cRlsSGGjjXiiqHTU",
+            "snippet": {
+                "publishedAt": "2019-02-26T13:46:14Z",
+                "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+                "title": "The Game Garage",
+                "description": "Experimental game shows and quiz shows, just without the shiny-floor studio.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/PL96C35uN7xGLafls3cRlsSGGjjXiiqHTU/landscape_mqdefault.jpg?sqp=CPyC9qQGir7X7AMGCIyH1eMF&rs=AOn4CLCQgryI8OeU9onL-sltun_KOVPrBA&v=1551188876",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/PL96C35uN7xGLafls3cRlsSGGjjXiiqHTU/landscape_sddefault.jpg?sqp=CPyC9qQGir7X7AMGCIyH1eMF&rs=AOn4CLCvchOahaqVWwOqfj2lki3IxuxA6w&v=1551188876",
+                        "width": 800,
+                        "height": 450
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/PL96C35uN7xGLafls3cRlsSGGjjXiiqHTU/landscape_maxresdefault.jpg?sqp=CPyC9qQGir7X7AMGCIyH1eMF&rs=AOn4CLDhHW_8Do-RP0QTTRdZ0pTyJ_LdAA&v=1551188876",
+                        "width": 2560,
+                        "height": 1440
+                    }
+                },
+                "channelTitle": "Tom Scott",
+                "localized": {
+                    "title": "The Game Garage",
+                    "description": "Experimental game shows and quiz shows, just without the shiny-floor studio."
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "P-QPLkchGVjFT7rxdkVMhzxkeXs",
+            "id": "PL96C35uN7xGLevOgLkc2NZYnOt6DTK0Ht",
+            "snippet": {
+                "publishedAt": "2018-12-04T03:53:16Z",
+                "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+                "title": "⏩",
+                "description": "YouTube videos from a future. Not the future. Just a future.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/PL96C35uN7xGLevOgLkc2NZYnOt6DTK0Ht/landscape_mqdefault.jpg?sqp=CPyC9qQGir7X7AMGCK30l-AF&rs=AOn4CLDbD111oKE4ZYsyyG-QIcHCR2c2bQ&v=1543895597",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/PL96C35uN7xGLevOgLkc2NZYnOt6DTK0Ht/landscape_sddefault.jpg?sqp=CPyC9qQGir7X7AMGCK30l-AF&rs=AOn4CLBHHnDkD7s53RMFKItKqSYSNTQnsw&v=1543895597",
+                        "width": 800,
+                        "height": 450
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/PL96C35uN7xGLevOgLkc2NZYnOt6DTK0Ht/landscape_maxresdefault.jpg?sqp=CPyC9qQGir7X7AMGCK30l-AF&rs=AOn4CLDGXYxjM88hvr8MnlFT8eIoKqJIWQ&v=1543895597",
+                        "width": 2560,
+                        "height": 1440
+                    }
+                },
+                "channelTitle": "Tom Scott",
+                "localized": {
+                    "title": "⏩",
+                    "description": "YouTube videos from a future. Not the future. Just a future."
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "IF4ZGHf8O3CSV4Edk80MCxrpfQY",
+            "id": "PL96C35uN7xGLtTqCh2iJ-aUIr10gy556Y",
+            "snippet": {
+                "publishedAt": "2018-10-22T10:42:22Z",
+                "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+                "title": "Citation Needed : Season 8",
+                "description": "Tom's got a page from Wikipedia, and Gary, Chris and Matt can't see it. Every fact they get right is a point and a ding, and there's a prize for particularly good answers: Mystery Biscuits.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pkU8u-FCs1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pkU8u-FCs1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pkU8u-FCs1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pkU8u-FCs1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pkU8u-FCs1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tom Scott",
+                "localized": {
+                    "title": "Citation Needed : Season 8",
+                    "description": "Tom's got a page from Wikipedia, and Gary, Chris and Matt can't see it. Every fact they get right is a point and a ding, and there's a prize for particularly good answers: Mystery Biscuits."
+                }
+            }
+        }
+    ]
+}
