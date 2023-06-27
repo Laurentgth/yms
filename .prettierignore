@@ -1,0 +1,12 @@
+# VS Code configuration
+.vscode
+
+# Javascript dependencies cache
+node_modules
+
+# PHP dependencies cache
+vendor
+
+# Miscellaneous
+.env
+package-lock.json

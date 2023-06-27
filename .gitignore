@@ -1,0 +1,17 @@
+# VS Code configuration
+.vscode
+
+# MacOS
+*.DS_Store
+
+# Javascript dependencies cache
+node_modules
+
+# PHP dependencies cache
+vendor
+
+# Miscellaneous
+package-lock.json
+
+# This is for work in progress information, scripts and data
+wip
