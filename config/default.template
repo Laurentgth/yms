@@ -1,0 +1,1 @@
+({vid_timestamp_combo}{vid_minutes_extended}:{vid_seconds}) [{vid_title} - {vid_publishedAt_day} {vid_publishedAt_month}. {vid_publishedAt_year}]({vid_url}) @ [{channel_title} Channel]({channel_url_vids})

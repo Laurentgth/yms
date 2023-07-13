@@ -1,14 +1,14 @@
 {
     "name": "yms",
-    "version": "1.0.0",
-    "description": "A lightweight script to get metadata information from a Youtube video URL or ID, e.g. to include in documentation.",
+    "version": "1.1.0",
+    "description": "A Python script to extract Youtube video metadata,to include, for example, in documentation.",
     "main": "index.js",
     "scripts": {
         "pretty": "npx prettier --write ."
     },
     "keywords": [],
     "author": "L. Gauthier @ Fizzdevs.fr",
-    "license": "CC-BY-NC-SA-4.0",
+    "license": "MIT",
     "devDependencies": {
         "prettier": "2.8.8"
     }

@@ -1,0 +1,6 @@
+=============== Youtube Metadata Script - Documentation ===============
+For the video you wish to extract metadata from, enter locator as a
+Youtube URL or ID. You may follow the locator with "-t" or "--template"
+flag to enter custom output template. These flags may also to used on
+the command line. Output is printed and copied to the clipboard.
+=======================================================================

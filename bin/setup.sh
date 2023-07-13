@@ -1,6 +1,13 @@
-# =============================================================================
-# YMS - Setting up configuration on the machine
-# =============================================================================
+# ======================================================================
+# Created in July 2023
+# Author: L. Gauthier @ FizzDevS Designs
+# License: MIT
+# Description: Youtube Metadata Script (YMS) - A Python script to
+#              extract Youtube video metadata
+# ======================================================================
+# --> Shell script setting up configuration on the machine
+# ======================================================================
+
 # Define routine to create folder if it does not exist
 create_directory() {
     echo "Enter creation routine for directory: $1"
@@ -24,7 +31,7 @@ create_directory $PATH_PYTHON
 create_directory $PATH_ASSETS
 
 
-# =============================================================================
+# ======================================================================
 # Define routine to duplicate project's folders into `.yms`
 copy_folder(){
     cp -R "$1/" "$PATH_ROOT/$1/"
@@ -35,8 +42,8 @@ copy_folder config
 copy_folder assets
 
 
-# =============================================================================
-# Prompt user for Youtube API key, replace in config if given 
+# ======================================================================
+# Prompt user for Youtube API key, replace in config if given
 read -r -s -p "Enter API key [use dev key as default]: " key
 if [ -n "$key" ]
 then

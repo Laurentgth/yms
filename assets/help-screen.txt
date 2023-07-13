@@ -1,6 +1,0 @@
-=============== Youtube Metadata Script - Documentation ===============
-When prompted, enter a Youtube video URL or simply the ID for the video
-to process. It is possible to also enter a pattern for the result to be
-formatted into adding the "-p" or "--pattern" flag to the command line.
-The end result is printed on the screen and copied to the clipboard.
-=======================================================================

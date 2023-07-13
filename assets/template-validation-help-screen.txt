@@ -1,0 +1,4 @@
+=============== Youtube Metadata Script - Documentation ===============
+If you proceed with this template and output result will be printed and
+copied to the clipboard. Otherwise, the default template will be used.
+=======================================================================

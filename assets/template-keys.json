@@ -1,0 +1,29 @@
+{
+    "vid.url": "vid_url",
+
+    "vid.timestamp.url": "vid_timestamp_url",
+    "vid.timestamp.minutes": "vid_timestamp_minutes",
+    "vid.timestamp.seconds": "vid_timestamp_seconds",
+    "vid.timestamp.combo": "vid_timestamp_combo",
+
+    "vid.id": "vid_id",
+    "vid.title": "vid_title",
+
+    "vid.duration": "vid_duration",
+    "vid.days": "vid_days",
+    "vid.hours": "vid_hours",
+    "vid.minutes": "vid_minutes",
+    "vid.seconds": "vid_seconds",
+    "vid.hours.extended": "vid_hours_extended",
+    "vid.minutes.extended": "vid_minutes_extended",
+    "vid.seconds.extended": "vid_seconds_extended",
+
+    "vid.publishedAt.day": "vid_publishedAt_day",
+    "vid.publishedAt.month": "vid_publishedAt_month",
+    "vid.publishedAt.year": "vid_publication_year",
+
+    "channel.title": "channel_title",
+    "channel.id": "channel_id",
+    "channel.url": "channel_url",
+    "channel.url.videos": "channel_url_vids"
+}
